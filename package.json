@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/sandinocoelho/automatic-video-maker.git",
   "author": "Sandino <sandino.coelho@ufrpe.br>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
