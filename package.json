@@ -1,0 +1,8 @@
+{
+  "name": "automatic-video-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sandinocoelho/automatic-video-maker.git",
+  "author": "Sandino <sandino.coelho@ufrpe.br>",
+  "license": "MIT"
+}
